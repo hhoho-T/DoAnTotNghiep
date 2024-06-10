@@ -1,0 +1,127 @@
+C:\Users\Minh Vu\source\repos\QuanKho\QuanKho\bin\Debug\QuanKho.exe.config
+C:\Users\Minh Vu\source\repos\QuanKho\QuanKho\bin\Debug\QuanKho.exe
+C:\Users\Minh Vu\source\repos\QuanKho\QuanKho\bin\Debug\QuanKho.pdb
+C:\Users\Minh Vu\source\repos\QuanKho\QuanKho\obj\Debug\QuanKho.csproj.AssemblyReference.cache
+C:\Users\Minh Vu\source\repos\QuanKho\QuanKho\obj\Debug\QuanKho.Properties.Resources.resources
+C:\Users\Minh Vu\source\repos\QuanKho\QuanKho\obj\Debug\QuanKho.csproj.GenerateResource.cache
+C:\Users\Minh Vu\source\repos\QuanKho\QuanKho\obj\Debug\QuanKho.csproj.CoreCompileInputs.cache
+C:\Users\Minh Vu\source\repos\QuanKho\QuanKho\obj\Debug\QuanKho.exe
+C:\Users\Minh Vu\source\repos\QuanKho\QuanKho\obj\Debug\QuanKho.pdb
+C:\Users\Minh Vu\source\repos\QuanKho\QuanKho\obj\Debug\QuanKho.frmHoaDonBan.resources
+C:\Users\Minh Vu\source\repos\QuanKho\QuanKho\obj\Debug\QuanKho.frmMain.resources
+C:\Users\Minh Vu\source\repos\QuanKho\QuanKho\obj\Debug\QuanKho.frmDMHang.resources
+C:\Users\Minh Vu\source\repos\QuanKho\QuanKho\obj\Debug\QuanKho.frmDMNhanvien.resources
+C:\Users\Minh Vu\source\repos\QuanKho\QuanKho\obj\Debug\QuanKho.frmDMHangHoa.resources
+C:\Users\Minh Vu\source\repos\QuanKho\QuanKho\obj\Debug\QuanKho.frmDMKhachHang.resources
+C:\Users\Minh Vu\source\repos\QuanKho\QuanKho\obj\Debug\QuanKho.frmTimHDBan.resources
+C:\Users\Minh Vu\source\repos\QuanKho\QuanKho\obj\Debug\QuanKho.csproj.ResolveComReference.cache
+C:\Users\Ba Tri\Documents\Đồ Án\ban 5\QuanKho\QuanKho\bin\Debug\QuanKho.exe.config
+C:\Users\Ba Tri\Documents\Đồ Án\ban 5\QuanKho\QuanKho\bin\Debug\QuanKho.exe
+C:\Users\Ba Tri\Documents\Đồ Án\ban 5\QuanKho\QuanKho\bin\Debug\QuanKho.pdb
+C:\Users\Ba Tri\Documents\Đồ Án\ban 5\QuanKho\QuanKho\obj\Debug\QuanKho.csproj.AssemblyReference.cache
+C:\Users\Ba Tri\Documents\Đồ Án\ban 5\QuanKho\QuanKho\obj\Debug\QuanKho.csproj.ResolveComReference.cache
+C:\Users\Ba Tri\Documents\Đồ Án\ban 5\QuanKho\QuanKho\obj\Debug\QuanKho.frmDMHang.resources
+C:\Users\Ba Tri\Documents\Đồ Án\ban 5\QuanKho\QuanKho\obj\Debug\QuanKho.frmDMHangHoa.resources
+C:\Users\Ba Tri\Documents\Đồ Án\ban 5\QuanKho\QuanKho\obj\Debug\QuanKho.frmDMKhachHang.resources
+C:\Users\Ba Tri\Documents\Đồ Án\ban 5\QuanKho\QuanKho\obj\Debug\QuanKho.frmDMNhanvien.resources
+C:\Users\Ba Tri\Documents\Đồ Án\ban 5\QuanKho\QuanKho\obj\Debug\QuanKho.frmHoaDonBan.resources
+C:\Users\Ba Tri\Documents\Đồ Án\ban 5\QuanKho\QuanKho\obj\Debug\QuanKho.frmMain.resources
+C:\Users\Ba Tri\Documents\Đồ Án\ban 5\QuanKho\QuanKho\obj\Debug\QuanKho.frmTimHDBan.resources
+C:\Users\Ba Tri\Documents\Đồ Án\ban 5\QuanKho\QuanKho\obj\Debug\QuanKho.Properties.Resources.resources
+C:\Users\Ba Tri\Documents\Đồ Án\ban 5\QuanKho\QuanKho\obj\Debug\QuanKho.csproj.GenerateResource.cache
+C:\Users\Ba Tri\Documents\Đồ Án\ban 5\QuanKho\QuanKho\obj\Debug\QuanKho.csproj.CoreCompileInputs.cache
+C:\Users\Ba Tri\Documents\Đồ Án\ban 5\QuanKho\QuanKho\obj\Debug\QuanKho.exe
+C:\Users\Ba Tri\Documents\Đồ Án\ban 5\QuanKho\QuanKho\obj\Debug\QuanKho.pdb
+C:\Users\Minh Vu\Documents\Zalo Received Files\duan\QuanKho\QuanKho\QuanKho\bin\Debug\QuanKho.exe.config
+C:\Users\Minh Vu\Documents\Zalo Received Files\duan\QuanKho\QuanKho\QuanKho\bin\Debug\QuanKho.exe
+C:\Users\Minh Vu\Documents\Zalo Received Files\duan\QuanKho\QuanKho\QuanKho\bin\Debug\QuanKho.pdb
+C:\Users\Minh Vu\Documents\Zalo Received Files\duan\QuanKho\QuanKho\QuanKho\obj\Debug\QuanKho.csproj.AssemblyReference.cache
+C:\Users\Minh Vu\Documents\Zalo Received Files\duan\QuanKho\QuanKho\QuanKho\obj\Debug\QuanKho.csproj.ResolveComReference.cache
+C:\Users\Minh Vu\Documents\Zalo Received Files\duan\QuanKho\QuanKho\QuanKho\obj\Debug\QuanKho.frmDMHang.resources
+C:\Users\Minh Vu\Documents\Zalo Received Files\duan\QuanKho\QuanKho\QuanKho\obj\Debug\QuanKho.frmDMHangHoa.resources
+C:\Users\Minh Vu\Documents\Zalo Received Files\duan\QuanKho\QuanKho\QuanKho\obj\Debug\QuanKho.frmDMKhachHang.resources
+C:\Users\Minh Vu\Documents\Zalo Received Files\duan\QuanKho\QuanKho\QuanKho\obj\Debug\QuanKho.frmDMNhanvien.resources
+C:\Users\Minh Vu\Documents\Zalo Received Files\duan\QuanKho\QuanKho\QuanKho\obj\Debug\QuanKho.frmHoaDonBan.resources
+C:\Users\Minh Vu\Documents\Zalo Received Files\duan\QuanKho\QuanKho\QuanKho\obj\Debug\QuanKho.frmMain.resources
+C:\Users\Minh Vu\Documents\Zalo Received Files\duan\QuanKho\QuanKho\QuanKho\obj\Debug\QuanKho.frmTimHDBan.resources
+C:\Users\Minh Vu\Documents\Zalo Received Files\duan\QuanKho\QuanKho\QuanKho\obj\Debug\QuanKho.Properties.Resources.resources
+C:\Users\Minh Vu\Documents\Zalo Received Files\duan\QuanKho\QuanKho\QuanKho\obj\Debug\QuanKho.csproj.GenerateResource.cache
+C:\Users\Minh Vu\Documents\Zalo Received Files\duan\QuanKho\QuanKho\QuanKho\obj\Debug\QuanKho.csproj.CoreCompileInputs.cache
+C:\Users\Minh Vu\Documents\Zalo Received Files\duan\QuanKho\QuanKho\QuanKho\obj\Debug\QuanKho.exe
+C:\Users\Minh Vu\Documents\Zalo Received Files\duan\QuanKho\QuanKho\QuanKho\obj\Debug\QuanKho.pdb
+C:\Users\Ba Tri\Documents\Đồ Án\ban v8\QuanKho\QuanKho\QuanKho\bin\Debug\QuanKho.exe.config
+C:\Users\Ba Tri\Documents\Đồ Án\ban v8\QuanKho\QuanKho\QuanKho\bin\Debug\QuanKho.exe
+C:\Users\Ba Tri\Documents\Đồ Án\ban v8\QuanKho\QuanKho\QuanKho\bin\Debug\QuanKho.pdb
+C:\Users\Ba Tri\Documents\Đồ Án\ban v8\QuanKho\QuanKho\QuanKho\obj\Debug\QuanKho.csproj.AssemblyReference.cache
+C:\Users\Ba Tri\Documents\Đồ Án\ban v8\QuanKho\QuanKho\QuanKho\obj\Debug\QuanKho.csproj.ResolveComReference.cache
+C:\Users\Ba Tri\Documents\Đồ Án\ban v8\QuanKho\QuanKho\QuanKho\obj\Debug\QuanKho.frmDMHang.resources
+C:\Users\Ba Tri\Documents\Đồ Án\ban v8\QuanKho\QuanKho\QuanKho\obj\Debug\QuanKho.frmDMHangHoa.resources
+C:\Users\Ba Tri\Documents\Đồ Án\ban v8\QuanKho\QuanKho\QuanKho\obj\Debug\QuanKho.frmDMKhachHang.resources
+C:\Users\Ba Tri\Documents\Đồ Án\ban v8\QuanKho\QuanKho\QuanKho\obj\Debug\QuanKho.frmDMNhanvien.resources
+C:\Users\Ba Tri\Documents\Đồ Án\ban v8\QuanKho\QuanKho\QuanKho\obj\Debug\QuanKho.frmHoaDonBan.resources
+C:\Users\Ba Tri\Documents\Đồ Án\ban v8\QuanKho\QuanKho\QuanKho\obj\Debug\QuanKho.frmMain.resources
+C:\Users\Ba Tri\Documents\Đồ Án\ban v8\QuanKho\QuanKho\QuanKho\obj\Debug\QuanKho.frmTimHDBan.resources
+C:\Users\Ba Tri\Documents\Đồ Án\ban v8\QuanKho\QuanKho\QuanKho\obj\Debug\QuanKho.LoginForm.resources
+C:\Users\Ba Tri\Documents\Đồ Án\ban v8\QuanKho\QuanKho\QuanKho\obj\Debug\QuanKho.Properties.Resources.resources
+C:\Users\Ba Tri\Documents\Đồ Án\ban v8\QuanKho\QuanKho\QuanKho\obj\Debug\QuanKho.csproj.GenerateResource.cache
+C:\Users\Ba Tri\Documents\Đồ Án\ban v8\QuanKho\QuanKho\QuanKho\obj\Debug\QuanKho.csproj.CoreCompileInputs.cache
+C:\Users\Ba Tri\Documents\Đồ Án\ban v8\QuanKho\QuanKho\QuanKho\obj\Debug\QuanKho.exe
+C:\Users\Ba Tri\Documents\Đồ Án\ban v8\QuanKho\QuanKho\QuanKho\obj\Debug\QuanKho.pdb
+C:\Users\Minh Vu\Downloads\QuanKho\QuanKho\QuanKho\bin\Debug\QuanKho.exe.config
+C:\Users\Minh Vu\Downloads\QuanKho\QuanKho\QuanKho\bin\Debug\QuanKho.exe
+C:\Users\Minh Vu\Downloads\QuanKho\QuanKho\QuanKho\bin\Debug\QuanKho.pdb
+C:\Users\Minh Vu\Downloads\QuanKho\QuanKho\QuanKho\obj\Debug\QuanKho.csproj.AssemblyReference.cache
+C:\Users\Minh Vu\Downloads\QuanKho\QuanKho\QuanKho\obj\Debug\QuanKho.csproj.ResolveComReference.cache
+C:\Users\Minh Vu\Downloads\QuanKho\QuanKho\QuanKho\obj\Debug\QuanKho.frmDMHang.resources
+C:\Users\Minh Vu\Downloads\QuanKho\QuanKho\QuanKho\obj\Debug\QuanKho.frmDMHangHoa.resources
+C:\Users\Minh Vu\Downloads\QuanKho\QuanKho\QuanKho\obj\Debug\QuanKho.frmDMKhachHang.resources
+C:\Users\Minh Vu\Downloads\QuanKho\QuanKho\QuanKho\obj\Debug\QuanKho.frmDMNhanvien.resources
+C:\Users\Minh Vu\Downloads\QuanKho\QuanKho\QuanKho\obj\Debug\QuanKho.frmHoaDonBan.resources
+C:\Users\Minh Vu\Downloads\QuanKho\QuanKho\QuanKho\obj\Debug\QuanKho.frmMain.resources
+C:\Users\Minh Vu\Downloads\QuanKho\QuanKho\QuanKho\obj\Debug\QuanKho.frmTimHDBan.resources
+C:\Users\Minh Vu\Downloads\QuanKho\QuanKho\QuanKho\obj\Debug\QuanKho.LoginForm.resources
+C:\Users\Minh Vu\Downloads\QuanKho\QuanKho\QuanKho\obj\Debug\QuanKho.Properties.Resources.resources
+C:\Users\Minh Vu\Downloads\QuanKho\QuanKho\QuanKho\obj\Debug\QuanKho.csproj.GenerateResource.cache
+C:\Users\Minh Vu\Downloads\QuanKho\QuanKho\QuanKho\obj\Debug\QuanKho.csproj.CoreCompileInputs.cache
+C:\Users\Minh Vu\Downloads\QuanKho\QuanKho\QuanKho\obj\Debug\QuanKho.exe
+C:\Users\Minh Vu\Downloads\QuanKho\QuanKho\QuanKho\obj\Debug\QuanKho.pdb
+C:\Users\Minh Vu\Downloads\QuanKho\QuanKho\QuanKho\obj\Debug\QuanKho.frmTimHH.resources
+C:\Users\Minh Vu\Downloads\QuanKho\QuanKho\QuanKho\obj\Debug\QuanKho.frmTimKhach.resources
+C:\Users\Ba Tri\Documents\Đồ Án\ban v10\QuanKho\QuanKho\bin\Debug\QuanKho.exe.config
+C:\Users\Ba Tri\Documents\Đồ Án\ban v10\QuanKho\QuanKho\bin\Debug\QuanKho.exe
+C:\Users\Ba Tri\Documents\Đồ Án\ban v10\QuanKho\QuanKho\bin\Debug\QuanKho.pdb
+C:\Users\Ba Tri\Documents\Đồ Án\ban v10\QuanKho\QuanKho\obj\Debug\QuanKho.csproj.AssemblyReference.cache
+C:\Users\Ba Tri\Documents\Đồ Án\ban v10\QuanKho\QuanKho\obj\Debug\QuanKho.csproj.ResolveComReference.cache
+C:\Users\Ba Tri\Documents\Đồ Án\ban v10\QuanKho\QuanKho\obj\Debug\QuanKho.frmDMHang.resources
+C:\Users\Ba Tri\Documents\Đồ Án\ban v10\QuanKho\QuanKho\obj\Debug\QuanKho.frmDMHangHoa.resources
+C:\Users\Ba Tri\Documents\Đồ Án\ban v10\QuanKho\QuanKho\obj\Debug\QuanKho.frmDMKhachHang.resources
+C:\Users\Ba Tri\Documents\Đồ Án\ban v10\QuanKho\QuanKho\obj\Debug\QuanKho.frmDMNhanvien.resources
+C:\Users\Ba Tri\Documents\Đồ Án\ban v10\QuanKho\QuanKho\obj\Debug\QuanKho.frmHoaDonBan.resources
+C:\Users\Ba Tri\Documents\Đồ Án\ban v10\QuanKho\QuanKho\obj\Debug\QuanKho.frmMain.resources
+C:\Users\Ba Tri\Documents\Đồ Án\ban v10\QuanKho\QuanKho\obj\Debug\QuanKho.frmTimHDBan.resources
+C:\Users\Ba Tri\Documents\Đồ Án\ban v10\QuanKho\QuanKho\obj\Debug\QuanKho.frmTimHH.resources
+C:\Users\Ba Tri\Documents\Đồ Án\ban v10\QuanKho\QuanKho\obj\Debug\QuanKho.frmTimKhach.resources
+C:\Users\Ba Tri\Documents\Đồ Án\ban v10\QuanKho\QuanKho\obj\Debug\QuanKho.LoginForm.resources
+C:\Users\Ba Tri\Documents\Đồ Án\ban v10\QuanKho\QuanKho\obj\Debug\QuanKho.Properties.Resources.resources
+C:\Users\Ba Tri\Documents\Đồ Án\ban v10\QuanKho\QuanKho\obj\Debug\QuanKho.csproj.GenerateResource.cache
+C:\Users\Ba Tri\Documents\Đồ Án\ban v10\QuanKho\QuanKho\obj\Debug\QuanKho.csproj.CoreCompileInputs.cache
+C:\Users\Ba Tri\Documents\Đồ Án\ban v10\QuanKho\QuanKho\obj\Debug\QuanKho.exe
+C:\Users\Ba Tri\Documents\Đồ Án\ban v10\QuanKho\QuanKho\obj\Debug\QuanKho.pdb
+C:\Users\Ba Tri\Documents\Đồ Án\ban v10\QuanKho\QuanKho\obj\Debug\QuanKho.frmDMDoanhThu.resources
+C:\Users\Ba Tri\Documents\Đồ Án\ban v10\QuanKho\QuanKho\obj\Debug\QuanKho.frmHangTon.resources
+C:\Users\Ba Tri\Documents\Đồ Án\ban v10\QuanKho\QuanKho\bin\Debug\AForge.dll
+C:\Users\Ba Tri\Documents\Đồ Án\ban v10\QuanKho\QuanKho\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Ba Tri\Documents\Đồ Án\ban v10\QuanKho\QuanKho\bin\Debug\AForge.Video.dll
+C:\Users\Ba Tri\Documents\Đồ Án\ban v10\QuanKho\QuanKho\bin\Debug\zxing.dll
+C:\Users\Ba Tri\Documents\Đồ Án\ban v10\QuanKho\QuanKho\bin\Debug\zxing.presentation.dll
+C:\Users\Ba Tri\Documents\Đồ Án\ban v10\QuanKho\QuanKho\bin\Debug\AForge.xml
+C:\Users\Ba Tri\Documents\Đồ Án\ban v10\QuanKho\QuanKho\bin\Debug\AForge.Video.xml
+C:\Users\Ba Tri\Documents\Đồ Án\ban v10\QuanKho\QuanKho\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Ba Tri\Documents\Đồ Án\ban v10\QuanKho\QuanKho\bin\Debug\zxing.xml
+C:\Users\Ba Tri\Documents\Đồ Án\ban v10\QuanKho\QuanKho\bin\Debug\zxing.presentation.xml
+C:\Users\Ba Tri\Documents\Đồ Án\ban v10\QuanKho\QuanKho\obj\Debug\QuanKho.frmcam.resources
+C:\Users\Ba Tri\Documents\Đồ Án\ban v10\QuanKho\QuanKho\obj\Debug\QuanKho.csproj.CopyComplete
+C:\Users\Ba Tri\Documents\Đồ Án\ban v10\QuanKho\QuanKho\obj\Debug\QuanKho.frmVaiNet.resources
+C:\Users\Ba Tri\Documents\Đồ Án\ban v10\QuanKho\QuanKho\obj\Debug\QuanKho.frmTroGiup.resources
+C:\Users\Ba Tri\Documents\Đồ Án\ban v10\QuanKho\QuanKho\obj\Debug\QuanKho.frmLichSu.resources
+C:\Users\Ba Tri\Documents\Đồ Án\ban v10\QuanKho\QuanKho\obj\Debug\QuanKho.frmChiTietTong.resources
